@@ -31,8 +31,9 @@ ollama pull llama3
 
 ### 2. Installation
 Clone this repository and navigate to the project directory:
+
+git clone [https://github.com/Shubhanshi-Shaurya/YT-Video-chatbot](https://github.com/Shubhanshi-Shaurya/YT-Video-chatbot)
 ``` bash
-git clone [https://github.com/Shubhanshi-Shaurya/YT-Video-chatbot](https://github.com/Shubhanshi-Shaurya/YT-Video-chatbot/)
 cd YT-Video-chatbot
 
 ```
