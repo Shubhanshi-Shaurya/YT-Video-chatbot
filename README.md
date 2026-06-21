@@ -57,3 +57,18 @@ streamlit run app.py
 ```
 
 ---
+
+
+## Project Structure
+```text
+
+yt_video_chatbot
+    ├── .venv
+    ├── .gitignore 
+    ├── requirements.txt         
+    ├── app.py              
+    └── README.md   
+
+```  
+
+---
